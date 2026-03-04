@@ -1,1 +1,11 @@
-
+{
+  "radio_config": {
+    "streaming_url": "http://radiostreamcolombia.albpo.com:8020/radio.mp3",
+    "metadata_url": "https://tu-servidor.com/status-json.php"
+  },
+  "social_menu": [
+    {"name": "Facebook", "url": "https://facebook.com/tu-radio", "icon": "logo-facebook"},
+    {"name": "Instagram", "url": "https://instagram.com/tu-radio", "icon": "logo-instagram"},
+    {"name": "WhatsApp", "url": "https://wa.me/tu-numero", "icon": "logo-whatsapp"}
+  ]
+}
