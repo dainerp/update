@@ -1,1 +1,38 @@
-
+[
+  {
+    "n": "SKY SPORT",
+    "cat": "sports",
+    "img": "https://btv.mx/posters/1729638802428.png",
+    "url": "https://tvstreaming.albpo.com/memfs/efccaa57-4a08-4d5b-8ad7-f45b7fce0e80.m3u8"
+  },
+  {
+    "n": "ESPN",
+    "cat": "sports",
+    "img": "https://btv.mx/posters/1724882534280.png",
+    "url": "https://tvstreaming.albpo.com/memfs/c12f52a1-442b-4708-b90a-5f755a486d53.m3u8"
+  },
+  {
+    "n": "ESPN2",
+    "cat": "sports",
+    "img": "https://btv.mx/posters/1727815489188.png",
+    "url": "https://tvstreaming.albpo.com/memfs/e772a64f-6949-48a4-84c2-8bc7bd523a93.m3u8"
+  },
+  {
+    "n": "WIN SPORTS+",
+    "cat": "sports",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/500px-Win_Sports_nuevo_logo.svg.png",
+    "url": "https://tvstreaming.albpo.com/memfs/28d9d032-2573-4498-a38b-81fc9ac2a2b1.m3u8"
+  },
+  {
+    "n": "DSPORTS HD",
+    "cat": "sports",
+    "img": "https://i.ibb.co/YQbC2xd/QQQ.png",
+    "url": "https://tvstreaming.albpo.com/memfs/d80e4f46-a135-415e-acd9-d72a0eb12c24.m3u8"
+  },
+  {
+    "n": "DSPORTS+ HD",
+    "cat": "sports",
+    "img": "https://i.ibb.co/YQbC2xd/QQQ.png",
+    "url": "https://tvstreaming.albpo.com/memfs/3d960a41-9ae3-425b-8076-188f62c06139.m3u8"
+  }
+]
